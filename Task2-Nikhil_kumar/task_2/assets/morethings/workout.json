@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "title": "Push Ups",
+    "Duration:":"30 min",
+    "reps:": "115",
+    "sets:": "15",
+    "exercise:":"5"
+  },
+  {
+    "id": 2,
+    "title": "Push Ups",
+    "Day:":"Monday",
+    "Duration:": "115",
+    "exercise": "5",
+    "T.U.T": "70%",
+    "calories count:":"65 kcal"
+  },
+{
+    "id": 3,
+    "title": "Pull Ups",
+    "Duration:":"30 min",
+    "reps": "100",
+    "sets": "12",
+    "exercise":"5"
+},
+{
+    "id": 4,
+    "title": "Bench Press",
+    "reps": "60",
+    "sets": "8",
+    "weight": "70",
+    "exercise":"5"
+},
+{
+    "id": 5,
+    "title": "Shoulder Press",
+    "reps": "40",
+    "sets": "10",
+    "weight": "30",
+    "exercise":"5"
+  }
+]
